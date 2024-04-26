@@ -4,7 +4,7 @@ In this repo you're going to find a VPC created with Terraform. This repo was ma
 This project is working with **Terraform**
 
 > [!NOTE]
-> The whole project was created on Linux (Ubuntu), so make sure to run it on similar OS. Also, you can modify the path given on `main.tf` according to you OS to avoid errors.
+> The whole project was created on Linux (Ubuntu), so make sure to run it on similar OS. Also, you can modify the path given on `main.tf` according to your OS to avoid errors.
 
 # Prerequisites
 You must have installed terraform on the computer that you're trying to run the project, make sure to follow the documentation below:
